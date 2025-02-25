@@ -36,4 +36,4 @@ Le site est déployé sur GitHub Pages à l'adresse : https://abienergie.github.
 
 ## Version
 
-6.6 - Février 2024
+6.6 - Février 2024# simulateur-solaire-v2
