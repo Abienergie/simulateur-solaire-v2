@@ -15,5 +15,5 @@ export default defineConfig({
     strictPort: true,
     host: true
   },
-  base: '/simulateur-solaire/'
+  base: '/simulateur-solaire-v2/'
 });
